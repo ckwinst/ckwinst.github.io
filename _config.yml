@@ -18,7 +18,7 @@ linkedin_username: "chadd-winston"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 
 rss: rss
 
